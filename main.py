@@ -15,8 +15,8 @@ app.add_middleware(
 
 # Base de données temporaire
 students: List[Student] = [
-    Student(id='1', name="Alice", age=22, course="Math"),
-    Student(id='2', name="Bob", age=24, course="Physics"),
+    Student(id='1', name="Ali", age=22, course="Math"),
+    Student(id='2', name="salah", age=24, course="Physics"),
 
 ]
 
